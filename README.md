@@ -43,7 +43,7 @@ Presentations, code and links to videos for the PyData London Conference 2015 th
 | Jupyter (IPython): how a notebook is changing science                                           | Juan Luis Cano                                        |       |              |      |
 | Keynote - How to Find Stories in Data                                                           | Helena Bengtsson                                      |       |              |      |
 | Keynote - What's it Like to be a Bot?                                                           | Eric Drass                                            |       |              |      |
-| Keynote: CRISP-DM: The Dominant Process for Data Mining                                         | Meta S. Brown                                         |       |              |      |
+| Keynote: CRISP-DM: The Dominant Process for Data Mining                                         | Meta S. Brown                                         |[Youtube](https://www.youtube.com/watch?v=civLio11SjQ)       |              |      |
 | Localising Organs of the Fetus in MRI Data Using Python                                         | Kevin Keraudren                                       |       |              |      |
 | Machine Learning with Imbalanced Data Sets                                                      | Natalie Hockham                                       |       |              |      |
 | Making Computations Execute Very Quickly                                                        | Russel Winder                                         |       |              |      |
